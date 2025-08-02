@@ -30,7 +30,7 @@ Este proyecto es una aplicación web sencilla desarrollada en HTML, CSS y JavaSc
 1. Clona el repositorio:
 ```bash
 git clone https://github.com/Shinra3245/amigo-secreto.git
-
+```
 
 2.  Abre el archivo index.html en tu navegador web.
 
