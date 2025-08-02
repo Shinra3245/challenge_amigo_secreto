@@ -18,11 +18,11 @@ Este proyecto es una aplicación web sencilla desarrollada en HTML, CSS y JavaSc
 ## Capturas de pantalla
 
 ### Agregando nombres
-![Agregar nombre](./assets/screenshots/Agregar-nombre.png)
+![Agregar nombre](./assets/screenshots/Agregar-nombre.PNG)
 ### Mostrar Lista de Nombres
-![Mostrar Lista](./assets/screenshots/Mostrar-lista.png)
+![Mostrar Lista](./assets/screenshots/Mostrar-lista.PNG)
 ### Sorteando un amigo secreto
-![Resultado sorteo](./assets/screenshots/Resultado-sorteo.png)
+![Resultado sorteo](./assets/screenshots/Resultado-sorteo.PNG)
 
 
 ## 🚀 Cómo usar
