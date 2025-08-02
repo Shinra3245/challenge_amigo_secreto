@@ -13,6 +13,7 @@ function agregarAmigo(){
   nombreamigos.push(nombre);
   // Limpiar el campo
   input.value = "";
+   mostrarAmigos();
 }
 
 function mostrarAmigos() {
@@ -23,7 +24,7 @@ function mostrarAmigos() {
   //Iterar sobre el arreglo
   for (let i = 0; i < nombreamigos.length; i++) {
     const item = document.createElement("li");
-    item.textContent = amigos[i];
+    item.textContent = nombreamigos[i];
     lista.appendChild(item);
   }
 }
@@ -37,7 +38,6 @@ function sortearAmigo() {
 
   // Generar índice aleatorio
   const indice = Math.floor(Math.random() * nombreamigos.length);
-
   // Obtener nombre sorteado
   const nombreSorteado = nombreamigos[indice];
 
