@@ -2,7 +2,7 @@
 let nombreamigos = [];
 
 function agregarAmigo(){
-    const input = document.getElementById('amigp');
+    const input = document.getElementById('amigo');
     const nombre = input.value;
 // Validar si el campo está vacío
   if (nombre === "") {
@@ -21,7 +21,7 @@ function mostrarAmigos() {
   // Limpiar la lista existente
   lista.innerHTML = "";
   //Iterar sobre el arreglo
-  for (let i = 0; i < amigos.length; i++) {
+  for (let i = 0; i < nombreamigos.length; i++) {
     const item = document.createElement("li");
     item.textContent = amigos[i];
     lista.appendChild(item);
