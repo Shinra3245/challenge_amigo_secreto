@@ -58,6 +58,7 @@ Este proyecto se encuentra bajo una licencia abierta. Puedes modificarlo y reuti
 🔗 Probar la app en vivo(https://shinra3245.github.io/challenge_amigo_secreto)
 
 🏅 Insignia ganada por desarrollar satisfactoriamente el challenge
+
 ![Insignia](./assets/screenshots/insignia.webp)
 
 
