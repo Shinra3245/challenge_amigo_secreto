@@ -63,7 +63,7 @@ Este proyecto se encuentra bajo una licencia abierta. Puedes modificarlo y reuti
 
 ## 💡 Autor
 
-Desarrollado como parte del programa Oracle ONE + Alura Latam por Omar Bolaños García
+Desarrollado como parte del programa Oracle ONE + Alura Latam por *Omar Bolaños García*
 El diseño de interfaz basado en las guías visuales de Alura.
 
 ¡Gracias por visitar este proyecto!
