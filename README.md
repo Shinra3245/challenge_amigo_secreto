@@ -46,15 +46,19 @@ git clone https://github.com/Shinra3245/amigo-secreto.git
 - Uso básico de `innerHTML` y `appendChild`.
 
 🛠️ Tecnologías utilizadas
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) — estructura base de Alura Latam.
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) — estilos base de Alura Latam.
-![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) — lógica de validación, sorteo y DOM dinámico.
+1. ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) — estructura base de Alura Latam.
+2. ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) — estilos base de Alura Latam.
+3. ![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) — lógica de validación, sorteo y DOM dinámico.
+
 
 ---
 ## 📄Licencia
 Este proyecto se encuentra bajo una licencia abierta. Puedes modificarlo y reutilizarlo con fines educativos o personales.
 
 🔗 Probar la app en vivo(https://shinra3245.github.io/challenge_amigo_secreto)
+
+🏅 Insignia ganada por desarrollar satisfactoriamente el challenge
+![Insignia](./assets/screenshots/insignia.webp)
 
 
 ## 💡 Autor
